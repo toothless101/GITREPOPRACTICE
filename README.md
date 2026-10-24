@@ -9,4 +9,4 @@ Hilary Mae Poralan
 - Apple
 - Banana
 
-[Hilary] (https://github.com/toothless101/GITREPOPRACTICE/edit/main/README.md)
+[Hilary](https://github.com/toothless101/GITREPOPRACTICE/edit/main/README.md)
